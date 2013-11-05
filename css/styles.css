@@ -1,1 +1,18 @@
 /* Stylesheet */
+
+.gallery {
+	background: orange;
+}
+.home {
+	background: grey;
+}
+/* NAV */
+.home li:nth-child(1) a{
+	font-weight: bold;
+	text-shadow: 2px;
+	font-size: 2em;
+}
+.gallery a:nth-child() {
+	font-weight: bold;
+	font
+	
